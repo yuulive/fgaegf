@@ -1,0 +1,15 @@
+[package]
+name = "loosen_map"
+version = "0.1.0"
+authors = ["Thiago <swfsql@gmail.com>"]
+edition = "2018"
+description = "Calls a function with self."
+keywords = ["function", "call", "map"]
+readme = "README.md"
+# repository = "https://github.com/swfsql/loosen_map"
+# documentation = "https://docs.rs/loosen_map/0.1.0/loosen_map/"
+
+[dependencies]
+
+[dev-dependencies]
+loosen = "0.1.0"

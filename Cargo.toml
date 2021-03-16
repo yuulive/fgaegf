@@ -1,14 +1,14 @@
 [package]
-name = "loosen_map"
+name = "ow"
 version = "0.1.1"
 authors = ["Thiago <swfsql@gmail.com>"]
 license = "MIT"
 edition = "2018"
-description = "Calls a function with self."
+description = "Ow calls a function with self."
 keywords = ["function", "call", "map"]
 readme = "README.md"
-repository = "https://github.com/swfsql/loosen_map"
-documentation = "https://docs.rs/loosen_map/0.1.1/loosen_map/"
+repository = "https://github.com/yuulive/ow"
+documentation = "https://docs.rs/ow/0.1.1/ow/"
 
 [dependencies]
 

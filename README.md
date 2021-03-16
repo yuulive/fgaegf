@@ -18,7 +18,7 @@ attr derive macro.
 
 ```rust
 use loosen::loose;
-use loosen_map::LooseMap;
+use ow::LooseMap;
 #
 # struct A;
 # struct B;
